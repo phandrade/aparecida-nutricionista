@@ -66,5 +66,3 @@ function montaTr(paciente) {
 
   return pacienteTr;
 }
-
-console.log("teste");
